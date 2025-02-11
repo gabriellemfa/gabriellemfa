@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Gabrielle! 👋
 
-<!--
-**gabriellemfa/gabriellemfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Software Developer with a passion for open-source
+- 🌱 Always learning new technologies and improving my skills
+- 🚀 Enthusiast of web development, cloud computing, and AI
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frameworks and Libraries:** React, Node.js, Express, Redux
+- **Tools and Platforms:** Git, Docker, AWS, Firebase
+- **Databases:** MongoDB, PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- 📫 [Email](mailto:alama.gabriellemaryflor@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielle-alama/)
+
+## GitHub Stats
+![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemfa&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemfa&layout=compact&theme=radical)
