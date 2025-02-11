@@ -12,6 +12,14 @@
 - **Databases:** MongoDB, MariaDB, MySQL, Next.js
 - **IDEs:** VSCode, VS, Eclipse, APEX
 
+## Hobbies and Interests
+
+- 🏃‍♀️ Running & hiking
+- 🌳 Being outdoors with nature
+- 🌍 Travelling and exploring cultures
+- 📚 Reading science fiction and fantasy novels
+- 🎤 Singing and dancing
+
 ## Contact Me
 - 📫 [Email](mailto:alama.gabriellemaryflor@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielle-alama/)
