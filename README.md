@@ -1,15 +1,16 @@
 # Hi there, I'm Gabrielle! 👋
 
 ## About Me
-- 💻 Software Developer with a passion for open-source
+- 💻 Aspiring Software Developer with a passion for open-source
 - 🌱 Always learning new technologies and improving my skills
 - 🚀 Enthusiast of web development, cloud computing, and AI
 
 ## Skills
 - **Languages:** JavaScript, TypeScript, Python, Java
-- **Frameworks and Libraries:** React, Node.js, Express, Redux
+- **Frameworks and Libraries:** React, Node.js, Next-auth
 - **Tools and Platforms:** Git, Docker, AWS, Firebase
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Databases:** MongoDB, MariaDB, MySQL, Next.js
+- **IDEs:** VSCode, VS, Eclipse, APEX
 
 ## Contact Me
 - 📫 [Email](mailto:alama.gabriellemaryflor@gmail.com)
