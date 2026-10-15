@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=400&height=44&lines=Computer%20Science%20Student" alt="Typing headlines" />
 </p>
 
+<p align="center">
+  <a href="https://gabrielle-alama-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌷_Visit_My_Portfolio-ff9bce?style=for-the-badge&logoColor=white" alt="Visit my portfolio" />
+  </a>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -28,4 +34,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/gabriellemfa">gabriellemfa</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/gabriellemfa">gabriellemfa</a> · <a href="https://gabrielle-alama-portfolio.vercel.app/">gabrielle-alama-portfolio.vercel.app</a></i></p>
